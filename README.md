@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI-ML Student<br>Currently exploring Machine Learning<br>Loves to play with Data<br>Favourite Language -Python<br>Basic Knowledge about C++, Java 
+AI-ML Student<br>Currently exploring Machine Learning<br>Loves to analyse Data<br>Favourite Language -Python<br>Basic Knowledge about C++, Java 
 
 
 # 💻 Tech Stack:
