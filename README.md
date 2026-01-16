@@ -1,16 +1,67 @@
-# 💫 About Me:
-AI-ML Student<br>Currently exploring and Learning about Machine Learning<br>Loves to analyse Data<br>Favourite Language- Python<br>Basic Knowledge about C++, Java
+# Hi 👋 I’m Garvit
 
+I’m a Computer Science student specializing in **AI & Machine Learning**, interested in building **end-to-end AI systems** — from data and models to APIs and usable products.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/garvit-audichya-305132337) 
+I enjoy working on:
+- LLM-powered applications (RAG, agents, structured prompting)
+- Evaluation-driven GenAI workflows (faithfulness, relevance, grounding)
+- Backend orchestration for AI systems (API-first, multi-tenant, production-ready)
+- Applied Machine Learning & NLP systems
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=garvit-010&theme=city_lights&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=garvit-010&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-010&theme=city_lights&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🔧 Tech Stack
+
+**Languages**  
+Python · SQL · JavaScript · HTML · CSS
+
+**AI & Machine Learning**  
+Machine Learning · Deep Learning · NLP  
+Generative AI · RAG · Prompt Engineering  
+LLM Evaluation · Model Inference · Embeddings  
+Vector Databases · Google Gemini  
+
+**Frameworks & Libraries**  
+PyTorch · scikit-learn · Hugging Face  
+LangChain · LangGraph · RAGAS  
+
+**Backend & Infrastructure**  
+FastAPI · Flask · Docker  
+MongoDB · FAISS · Chroma  
+
+**Data & Visualization**  
+Pandas · NumPy · Streamlit  
+
+**Tooling**  
+Git · GitHub · n8n
+
+---
+
+## 📂 My Projects
+
+> A mix of applied AI systems and core ML implementations
+
+- **VidSense AI**  
+  RAG-based system for conversational Q&A over YouTube transcripts with semantic search, evaluation pipelines, and multi-turn context handling.
+
+- **Creator Catalyst**  
+  Multi-modal AI automation system that converts long-form videos into multiple content formats.  
+  🏆 Winner – AI Demos Hackathon.
+
+- **MediAssist – AI Powered Scribe**  
+  LLM-based clinical documentation and patient communication system with structured outputs and role-based flows.
+
+👉 All projects: https://github.com/garvit-010
+
+---
+
+## 📈 What I’m Currently Focused On
+- Designing **production-ready LLM workflows**
+- Improving **RAG quality & evaluation**
+- Writing **clean, API-first AI backends**
+- Exploring **LLMOps & automation**
+
+---
+
+⭐ Open to internships, collaboration, and challenging AI problems.
+
