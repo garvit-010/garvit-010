@@ -1,67 +1,47 @@
-# Hi 👋 I’m Garvit
+# Hi I’m Garvit
 
-I’m a Computer Science student specializing in **AI & Machine Learning**, interested in building **end-to-end AI systems** — from data and models to APIs and usable products.
-
-I enjoy working on:
-- LLM-powered applications (RAG, agents, structured prompting)
-- Evaluation-driven GenAI workflows (faithfulness, relevance, grounding)
-- Backend orchestration for AI systems (API-first, multi-tenant, production-ready)
-- Applied Machine Learning & NLP systems
+I’m a Computer Science student specializing in **AI & Machine Learning**, focused on building **production-ready AI systems** — from model logic and retrieval pipelines to APIs, automation, and real user workflows.
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages**  
-Python · SQL · JavaScript · HTML · CSS
-
-**AI & Machine Learning**  
-Machine Learning · Deep Learning · NLP  
-Generative AI · RAG · Prompt Engineering  
-LLM Evaluation · Model Inference · Embeddings  
-Vector Databases · Google Gemini  
-
-**Frameworks & Libraries**  
-PyTorch · scikit-learn · Hugging Face  
-LangChain · LangGraph · RAGAS  
-
-**Backend & Infrastructure**  
-FastAPI · Flask · Docker  
-MongoDB · FAISS · Chroma  
-
-**Data & Visualization**  
-Pandas · NumPy · Streamlit  
-
-**Tooling**  
-Git · GitHub · n8n
+## 🧠 What I Work On
+- **LLM-powered applications** (RAG systems, agents, structured prompting)
+- **Evaluation-driven GenAI workflows** to improve grounding, faithfulness, and reliability
+- **AI backend development** (API-first design, multi-tenant workflows, orchestration)
+- **AI-powered automation** connecting models, tools, and external services
+- Applied **Machine Learning & NLP** for real-world problem solving
 
 ---
 
-## 📂 My Projects
-
-> A mix of applied AI systems and core ML implementations
+## 📂 My Work
 
 - **VidSense AI**  
-  RAG-based system for conversational Q&A over YouTube transcripts with semantic search, evaluation pipelines, and multi-turn context handling.
+  End-to-end RAG system for conversational Q&A over YouTube transcripts, with semantic retrieval, multi-turn context handling, and evaluation pipelines.
 
 - **Creator Catalyst**  
-  Multi-modal AI automation system that converts long-form videos into multiple content formats.  
+  AI automation engine that transforms long-form videos into multiple publish-ready content assets.  
   🏆 Winner – AI Demos Hackathon.
 
 - **MediAssist – AI Powered Scribe**  
-  LLM-based clinical documentation and patient communication system with structured outputs and role-based flows.
+  Clinical documentation and patient communication system using structured LLM outputs and role-based workflows.
 
-👉 All projects: https://github.com/garvit-010
-
----
-
-## 📈 What I’m Currently Focused On
-- Designing **production-ready LLM workflows**
-- Improving **RAG quality & evaluation**
-- Writing **clean, API-first AI backends**
-- Exploring **LLMOps & automation**
+👉 Explore all repositories: https://github.com/garvit-010
 
 ---
 
-⭐ Open to internships, collaboration, and challenging AI problems.
+## 🚀 What I’m Currently Focused On
+- Designing **scalable LLM workflows** for real users
+- Improving **RAG quality using evaluation metrics**
+- Building **AI automations** that reduce manual work
+- Strengthening **LLMOps and system reliability**
 
+---
+
+## 🎯 Open To
+- **AI Engineer / AI Developer internships**
+- **AI Automation & Agent-based roles**
+- Open-source collaboration and impactful AI projects
+
+---
+
+📫 **Reach me at:** audichyagarvit010@gmail.com
